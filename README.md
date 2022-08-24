@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abdulrazzaqlukamba@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e94e00a6-71dc-4619-91b5-d2066faeb1ae/MrishoLukambaResume_%281%29.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220718%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220718T181750Z&X-Amz-Expires=86400&X-Amz-Signature=bc7ae20680ef15cd07a6fd7cb66a889a8d2991aebbc0c9365f2f1d05247d14ae&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22MrishoLukambaResume%2520%281%29.pdf%22&x-id=GetObject)
+- 📄 Know about my experiences [Resume](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/93258116-c4ea-4c11-922c-d73e172fddda/My_Resume_%281%29.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220824%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220824T180906Z&X-Amz-Expires=86400&X-Amz-Signature=b9ec7f895344ec39f96ca0357064af9f5bef2b3e29a10d702ea9203f7f5ee0e9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22My%2520Resume%2520%281%29.pdf%22&x-id=GetObject)
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
