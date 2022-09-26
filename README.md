@@ -1,7 +1,9 @@
 <h1 align="center">I'am Mrisho Lukamba</h1>
 <h3 align="center">Substrate Runtime engineer and a Rust developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrisholukamba" alt="mrisholukamba" /></a> </p>
+<h4>Polkadot : 133WyzJ4cEEbQ4twhT3nQpoXYeTCzeKn8kWfRfEi4XDF7wKh </h4>
+
+<h4>Kusama : EcqVyNsNoz3iBhsWWoqAdLNqcjo71apWdcvf2XJzEQDgVz2 </h4>
 
 - 🔭 I’m currently working on [sub-harbour](https://github.com/MrishoLukamba/sub-harbour)
 
