@@ -1,5 +1,6 @@
 <h1 align="center">I'am Mrisho Lukamba</h1>
 <h3 align="center">Substrate Runtime engineer and a Rust developer</h3>
+<h4 align="center"> 20 YO, Tinkering with disruptive protocals and Learning through experiments</h4>
 
 <h4>Polkadot : 133WyzJ4cEEbQ4twhT3nQpoXYeTCzeKn8kWfRfEi4XDF7wKh </h4>
 
