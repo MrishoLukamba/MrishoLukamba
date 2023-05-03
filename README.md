@@ -3,7 +3,7 @@
 
 <h4>Polkadot : 133WyzJ4cEEbQ4twhT3nQpoXYeTCzeKn8kWfRfEi4XDF7wKh </h4>
 
-<h4>Kusama : EcqVyNsNoz3iBhsWWoqAdLNqcjo71apWdcvf2XJzEQDgVz2 </h4>
+<h4>Ethereum : 0x3924a3dfa412147bd4aa6c1adb300f96612b3d0f </h4>
 
 - 🔭 I’m currently working on [Vane](https://github.com/2-5-Foundation/Vane-Trustless-Payment)
 
