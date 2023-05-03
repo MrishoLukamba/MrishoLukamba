@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on [Vane](https://github.com/2-5-Foundation/Vane-Trustless-Payment)
 
 - Currently researching on **Light clients**
+- Tinkering with program (rust) execution workflow
 
 - 📫 How to reach me **abdulrazzaqlukamba@gmail.com**
 
