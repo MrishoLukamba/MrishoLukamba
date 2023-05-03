@@ -5,12 +5,12 @@
 
 <h4>Ethereum : 0x3924a3dfa412147bd4aa6c1adb300f96612b3d0f </h4>
 
-- 🔭 I’m currently working on [Vane](https://github.com/2-5-Foundation/Vane-Trustless-Payment)
+- 🔭 I’m currently working on [Vane](https://github.com/2-5-Foundation/Vane-Trustless-Payment) & [ORDUM](https://github.com/OrdumLTD)
 
 - Currently researching on **Light clients**
 - Tinkering with program (rust) execution workflow
 
-- 📫 How to reach me **abdulrazzaqlukamba@gmail.com**
+- 📫 How to reach me **MrishoLukamba@proton.me**
 
 
 <p align="left">
