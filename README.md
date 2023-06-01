@@ -1,9 +1,5 @@
-<h1 align="center">I'am Mrisho Lukamba</h1>
-<h3 align="center"> 20 YO, Tinkering with disruptive protocals and Learning through experiments</h4>
-
-<h4>Polkadot : 133WyzJ4cEEbQ4twhT3nQpoXYeTCzeKn8kWfRfEi4XDF7wKh </h4>
-
-<h4>Ethereum : 0x3924a3dfa412147bd4aa6c1adb300f96612b3d0f </h4>
+<h1 align="center">Mrisho Lukamba</h1>
+<h3 align="center"> Tinkering with protocals and Learning through experiments</h4>
 
 - 🔭 I’m currently working on [Vane](https://github.com/2-5-Foundation/Vane-Trustless-Payment) & [ORDUM](https://github.com/OrdumLTD)
 
@@ -23,8 +19,5 @@
 
 - 📄 [Understanding Substrate's Storage with Merkle proofs](https://mrisho-lukamba.notion.site/Understanding-substrate-storage-with-merkle-proofs-34346a35b713463eb43c7939401f0f7b)
 
-
-<h4 align="left">Languages and Tools:</h4>
- </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrishoLukamba&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
