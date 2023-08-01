@@ -1,9 +1,9 @@
 <h1 align="center">Mrisho Lukamba</h1>
 <h3 align="center"> Tinkering with protocals and Learning through experiments</h4>
 
-- 🔭 I’m currently working on [Vane](https://github.com/2-5-Foundation/Vane-Trustless-Payment) & [ORDUM](https://github.com/OrdumLTD)
+- I’m currently working on [Vane](https://github.com/2-5-Foundation/Vane-Trustless-Payment) & [ORDUM](https://github.com/OrdumLTD)
 
-- Currently researching on **Light clients**
+- Currently researching on **Light clients** & **Polynomial Commitments** & **Cross Chain messaging**
 - Tinkering with program (rust) execution workflow
 
 - 📫 How to reach me **MrishoLukamba@proton.me**
