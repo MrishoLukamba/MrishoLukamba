@@ -19,5 +19,3 @@
 
 - 📄 [Understanding Substrate's Storage with Merkle proofs](https://mrisho-lukamba.notion.site/Understanding-substrate-storage-with-merkle-proofs-34346a35b713463eb43c7939401f0f7b)
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrishoLukamba&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
