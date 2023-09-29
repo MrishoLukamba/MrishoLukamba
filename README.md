@@ -6,7 +6,7 @@
 - Currently researching on **Light clients** & **Polynomial Commitments** & **Cross Chain messaging**
 - Tinkering with program (rust) execution workflow
 
-- 📫 How to reach me **MrishoLukamba@proton.me**
+- 📫 Contacts: **MrishoLukamba@proton.me**
 
 
 <p align="left">
