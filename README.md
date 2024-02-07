@@ -1,5 +1,5 @@
 <h1 align="center">Mrisho Lukamba</h1>
-<h3 align="center"> Tinkering with protocals and Learning through experiments</h4>
+<h3 align="center"> Tinkering with self sovereign systems and Learning through experiments</h4>
 
 - I’m currently working on [Vane](https://github.com/2-5-Foundation/vane) & NEOS Chain
 
