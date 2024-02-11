@@ -4,7 +4,7 @@
 - I’m currently working on [Vane](https://github.com/2-5-Foundation/vane) & NEOS Chain
 
 - Currently researching on **Light clients** & **Polynomial Commitments** & **Cross Chain messaging**
-- Studying Maths
+- Studying Maths ( Undergraduate )
 
 - 📫 Contacts: **MrishoLukamba@proton.me**
 
