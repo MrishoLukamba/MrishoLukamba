@@ -6,7 +6,7 @@
 - Currently researching on **Light clients** & **Polynomial Commitments** & **Cross Chain messaging**
 - Studying Maths ( Undergraduate )
 
-- 📫 Contacts: **MrishoLukamba@proton.me**
+- **MrishoLukamba@proton.me**
 
 
 <h4>Mathematics & Cryptography</h4>
