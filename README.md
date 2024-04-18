@@ -15,6 +15,8 @@
 
 <h4>Blockchain</h4>
 
+- 📄 [Spectre Finance: onchain prioprietary trading protocol](https://github.com/MrishoLukamba/MrishoLukamba/files/15030024/yellowPaper.pdf)
+  
 <h4>General</h4>
 
 
