@@ -16,7 +16,8 @@
 <h4>Blockchain</h4>
 
 - 📄 [Spectre Finance: onchain prioprietary trading protocol](https://github.com/MrishoLukamba/MrishoLukamba/files/15030024/yellowPaper.pdf)
-  
+- 🛠️ [Ordum Phat Contract: Grant Management System for treasuries design](https://github.com/MrishoLukamba/MrishoLukamba/files/15287823/Ordum.Phat.Contract.file.pdf)
+
 <h4>General</h4>
 
 
