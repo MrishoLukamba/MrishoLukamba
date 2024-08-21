@@ -1,7 +1,7 @@
 <h1 align="center">Mrisho Lukamba</h1>
 <h3 align="center"> Tinkering with self sovereign systems and Learning through experiments</h4>
 
-- Currently researching on **Light clients** & **Polynomial Commitments** & **Cross Chain messaging**
+- Currently researching on **Cryptographic Proving Systems**  & **Cross Chain messaging**
 - Studying Maths ( Undergraduate )
 
 - **MrishoLukamba@proton.me**
