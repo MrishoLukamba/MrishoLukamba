@@ -1,7 +1,7 @@
 <h1 align="center">Mrisho Lukamba</h1>
 <h3 align="center"> Tinkering with self sovereign systems and Learning through experiments</h4>
 
-- Currently researching on **Cryptographic Proving Systems**  & **Cross Chain messaging**
+- Currently researching how proving system (Zk) can port the internet to blockchain and how Defi can be integrated into businesses
 - Studying Maths ( Undergraduate )
 
 - **MrishoLukamba@proton.me**
@@ -15,7 +15,7 @@
 
 <h4>Blockchain</h4>
 
-- 📄 [Spectre Finance: onchain prioprietary trading protocol](https://github.com/MrishoLukamba/MrishoLukamba/files/15030024/yellowPaper.pdf)
+- 📄 [Spectre Finance: on-chain proprietary trading protocol](https://github.com/MrishoLukamba/MrishoLukamba/files/15030024/yellowPaper.pdf)
 - 🛠️ [Ordum Phat Contract: Grant Management System for treasuries design](https://github.com/MrishoLukamba/MrishoLukamba/files/15287823/Ordum.Phat.Contract.file.pdf)
 
 <h4>General</h4>
