@@ -6,19 +6,11 @@
 
 - **MrishoLukamba@proton.me**
 
+<h4>Neuron Waves</h4>
+https://mrisholukamba.carrd.co/
 
-<h4>Mathematics & Cryptography</h4>
-
-<h4>Data structures & Cryptography</h4>
-
-- 📄 [Understanding Substrate's Storage with Merkle proofs](https://mrisho-lukamba.notion.site/Understanding-substrate-storage-with-merkle-proofs-34346a35b713463eb43c7939401f0f7b)
-
-<h4>Blockchain</h4>
-
-- 📄 [Spectre Finance: on-chain proprietary trading protocol](https://github.com/MrishoLukamba/MrishoLukamba/files/15030024/yellowPaper.pdf)
-- 🛠️ [Ordum Phat Contract: Grant Management System for treasuries design](https://github.com/MrishoLukamba/MrishoLukamba/files/15287823/Ordum.Phat.Contract.file.pdf)
-
-<h4>General</h4>
+<h4>Currently building</h4>
+https://vaneweb3.com/
 
 
 
