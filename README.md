@@ -1,8 +1,7 @@
 <h1 align="center">Mrisho Lukamba</h1>
 <h3 align="center"> Tinkering with self sovereign systems and Learning through experiments</h4>
 
-- Currently researching how proving system (Zk) can port the internet to blockchain and how Defi can be integrated into businesses
-- Studying Maths ( Undergraduate )
+- Currently researching how a proving system (Zk)(Programmable Cryptography) can port the internet to blockchain and bring safety in blockchain interaction and certainty in AI workflow
 
 - **MrishoLukamba@proton.me**
 
